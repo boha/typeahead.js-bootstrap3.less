@@ -15,6 +15,10 @@ Tested with PhantomJS and Chorme, with `Bootstrap 3.1.1` and `typeahead.js 0.10.
 
 ## changelog
 
+###0.3.0
+
+Update to Bootstrap 0.11
+
 ###0.2.3
 
 bugfix
